@@ -24,9 +24,11 @@ repeat {
 ```
 
 //output
+```
 Optional(3)
 Optional(2)
 Optional(1)
 Optional(1)
 nil
 Optional(5)
+```
