@@ -1,5 +1,5 @@
-# SwiftRingBuffer
-RingBuffer aka Circular Queue
+# Swift Ring Buffer 
+Ring Buffer aka Circular Queue
 ![This is an image](https://media.geeksforgeeks.org/wp-content/uploads/Circular-queue_1.png)
 
 Ussage
