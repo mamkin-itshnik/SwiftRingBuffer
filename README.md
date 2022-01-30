@@ -4,7 +4,7 @@ https://media.geeksforgeeks.org/wp-content/uploads/Circular-queue_1.png
 
 Ussage
 
-
+```
 var queue = CircularQueue<Int>(size: 2, startValue: 1)
 queue.put(value: 2)
 queue.put(value: 3)
@@ -21,6 +21,7 @@ repeat {
     print(val)
     val = queue.get()
 } while(val != nil)
+```
 
 //output
 Optional(3)
